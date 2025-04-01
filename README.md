@@ -51,7 +51,7 @@ Me chamo Lucas de Souza, concluí o ensino médio na escola Augusta do Amaral Pe
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="190" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucasDeSouzaLemes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -59,7 +59,7 @@ Me chamo Lucas de Souza, concluí o ensino médio na escola Augusta do Amaral Pe
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDeSouzaLemes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
