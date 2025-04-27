@@ -2,7 +2,7 @@
 
 **`Estudante de analise e desenvolvimento de sistemas`**
 
-Me chamo Lucas de Souza, concluí o ensino médio na escola Augusta do Amaral Peçanha. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAAT. Sou apaixonado por tecnologia...
+Me chamo Lucas de Souza, concluí o ensino médio na escola Augusta do Amaral Peçanha. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAAT. A cada dia que passa estou me empenhando para me tornar um programador e conseguir entrar no mercado de TI, Sou apaixonado por tecnologia...
 
 
 ---
